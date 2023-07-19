@@ -1,0 +1,23 @@
+body {
+    background-color: #c285db;  
+    font-family: 'Noto Sans Cypro Minoan', sans-serif;
+    font-family: 'VT323', monospace;
+}
+#Bronze {
+    background-color: #b33c00;
+    border: 5px outset #b33c00;
+    width: 200px;
+    color:aliceblue
+}
+#Silver {
+    background-color: #8585ad;
+    border: 5px outset #8585ad;
+    width: 200px;
+    color:aliceblue
+}
+#Gold {
+    background-color: #cc9900;
+    border: 5px outset #cc9900;
+    width: 200px;
+    color:aliceblue
+}
